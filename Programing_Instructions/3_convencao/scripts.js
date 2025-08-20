@@ -1,0 +1,9 @@
+// let 3nome = 'teste'; Isso gerara um erro
+let nome3 = 'teste';
+let $nome = 'teste2'; // não é aconselhável usar
+let _nome = 'teste3';
+// let @nome = 'teste';
+// let !nome = 'teste';
+let Nome = 'teste';
+let seuNome = 'teste';
+let seu_nome = 'teste';// Sintaxe do python
