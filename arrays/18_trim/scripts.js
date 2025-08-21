@@ -1,7 +1,6 @@
 let nome = " \n   Matheus \n ";
 
-// Olá     Matheus , tudo bem?
-
+// o trim remove os espaços em branco
 let nomeCorrigido = nome.trim();
 
 console.log(nome);

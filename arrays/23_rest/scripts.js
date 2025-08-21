@@ -3,8 +3,11 @@ let num1 = 5;
 let num2 = 3;
 let num3 = 4;
 
+
+// com tres pontos eu apenas não defino o numero  de argumentos
 function imprimirNumeros(...args) {
   for(let i = 0; i < args.length; i++) {
+    // aqui eu acesso os argumentos como um array
     console.log(args[i]);
   }
 }

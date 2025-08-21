@@ -5,6 +5,7 @@ let obj = {
   motor: '2.0'
 }
 
+// Destruturamos o objeto e atribuimos a uma variavel, com isso mostramos a variavel, representando a chave
 const {rodas: vRodas, portas: vPortas, tetosolar: vTetoSolar, motor: vMotor} = obj;
 
 console.log(vRodas);
